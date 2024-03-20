@@ -2,3 +2,4 @@ Good bye!
 line2
 line3
 another line from user2
+criticak bug fixed
